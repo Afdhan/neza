@@ -45,7 +45,7 @@ print("""
 AUTHOR TOOLS : RESCRIPT BY NEZA
 Tool Version: NEZA TOOL V2.1
 
-Ron Daniel""")
+NEZA""")
 print("\033[32m━━━ ah ah ga? (y/n)")
 choice = str(input("┗━>\033[0m:"))
 time.sleep(1)
